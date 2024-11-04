@@ -2,6 +2,9 @@ body{
 background-color: red;
 color: blue;
 margin:0px ;
+font-family: "Rubik Wet Paint", system-ui;
+  }
+  
 
 }
 
@@ -18,5 +21,9 @@ padding-bottom: 80px;
 display: flex;
 justify-content: center;
 
-    }
+ }
 
+ .chamada-texto{
+      margin-right: 5%;
+
+ }
